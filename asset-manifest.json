@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/frasesBreakingBad/static/css/main.00466e27.chunk.css",
-    "main.js": "/frasesBreakingBad/static/js/main.3a0566ea.chunk.js",
-    "main.js.map": "/frasesBreakingBad/static/js/main.3a0566ea.chunk.js.map",
-    "runtime-main.js": "/frasesBreakingBad/static/js/runtime-main.877cb391.js",
-    "runtime-main.js.map": "/frasesBreakingBad/static/js/runtime-main.877cb391.js.map",
-    "static/js/2.32cd3217.chunk.js": "/frasesBreakingBad/static/js/2.32cd3217.chunk.js",
-    "static/js/2.32cd3217.chunk.js.map": "/frasesBreakingBad/static/js/2.32cd3217.chunk.js.map",
-    "static/js/3.b131c296.chunk.js": "/frasesBreakingBad/static/js/3.b131c296.chunk.js",
-    "static/js/3.b131c296.chunk.js.map": "/frasesBreakingBad/static/js/3.b131c296.chunk.js.map",
-    "index.html": "/frasesBreakingBad/index.html",
-    "static/css/main.00466e27.chunk.css.map": "/frasesBreakingBad/static/css/main.00466e27.chunk.css.map",
-    "static/js/2.32cd3217.chunk.js.LICENSE.txt": "/frasesBreakingBad/static/js/2.32cd3217.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/frasesBreakingBad/static/media/logo.74f9689d.svg"
+    "main.css": "/sentencesChuck/static/css/main.3a9f93be.chunk.css",
+    "main.js": "/sentencesChuck/static/js/main.3a0566ea.chunk.js",
+    "main.js.map": "/sentencesChuck/static/js/main.3a0566ea.chunk.js.map",
+    "runtime-main.js": "/sentencesChuck/static/js/runtime-main.04aba1f3.js",
+    "runtime-main.js.map": "/sentencesChuck/static/js/runtime-main.04aba1f3.js.map",
+    "static/js/2.32cd3217.chunk.js": "/sentencesChuck/static/js/2.32cd3217.chunk.js",
+    "static/js/2.32cd3217.chunk.js.map": "/sentencesChuck/static/js/2.32cd3217.chunk.js.map",
+    "static/js/3.b131c296.chunk.js": "/sentencesChuck/static/js/3.b131c296.chunk.js",
+    "static/js/3.b131c296.chunk.js.map": "/sentencesChuck/static/js/3.b131c296.chunk.js.map",
+    "index.html": "/sentencesChuck/index.html",
+    "static/css/main.3a9f93be.chunk.css.map": "/sentencesChuck/static/css/main.3a9f93be.chunk.css.map",
+    "static/js/2.32cd3217.chunk.js.LICENSE.txt": "/sentencesChuck/static/js/2.32cd3217.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/sentencesChuck/static/media/logo.74f9689d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.877cb391.js",
+    "static/js/runtime-main.04aba1f3.js",
     "static/js/2.32cd3217.chunk.js",
-    "static/css/main.00466e27.chunk.css",
+    "static/css/main.3a9f93be.chunk.css",
     "static/js/main.3a0566ea.chunk.js"
   ]
 }
